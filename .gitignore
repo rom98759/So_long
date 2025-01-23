@@ -1,0 +1,15 @@
+# Directories
+.vscode/
+objs/
+objs_bonus/
+mlx/
+
+# Files
+*.o
+*.out
+
+# Executables
+so_long
+so_long_bonus
+libft/libft.a
+*/libft.a
